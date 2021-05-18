@@ -2,9 +2,10 @@
 ---
 
 ### Table of Contents
-- [Linux](#linux)
-- [Git](#git)
-- [Javascript](#javascript)
+- [Linux](https://github.com/Dipankar-Chakraborty/missingskill-learning/blob/main/linux.md)
+- [Git](https://github.com/Dipankar-Chakraborty/missingskill-learning/blob/main/git.md)
+- [Building Block Of Web Components](https://github.com/Dipankar-Chakraborty/missingskill-learning/blob/main/building-block-of-web-components.md)
+- [JavaScript](https://github.com/Dipankar-Chakraborty/missingskill-learning/blob/main/javascript.md)
 
 ---
 
