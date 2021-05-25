@@ -123,6 +123,7 @@ Some of the popular web servers are:
 ## Web Socket
 
 The WebSocket is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
+![Web Socket](https://github.com/Dipankar-Chakraborty/missingskill-learning/blob/main/images/web-sockets-visual-representation.jpg)
 
 ## HTTP Verbs
 
@@ -166,6 +167,8 @@ Status codes are grouped in five classes
 ## Software Licenses
 
 A Software license is legal instrument governing the use and redistribution of software.
+
+Some of the open source, free licenses are:
 - Apache
 - MIT
 - BSD
@@ -176,12 +179,13 @@ A Software license is legal instrument governing the use and redistribution of s
 
 Database is a tool for collecting and organizing information. Databases can store information about people, products, orders or anything else.
 
-There are two types of databases relational and non-relational.
-Relational Databases:
+There are two types of databases relational and non-relational.  
+**Relational Databases:**
 - MySql
 - PostgreSQL
-- MariaDB
-Non-Relational Databases:
+- MariaDB  
+
+**Non-Relational Databases:**
 - MongoDB
 - Redis
 - Cassandra
